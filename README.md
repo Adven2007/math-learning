@@ -1,5 +1,5 @@
 # math-learning
-Daily math notes, reflections, and progress tracking.
+Math notes, reflections, and progress tracking.
 ## studies
 Mathematical Analysis  
 Linear Algebra  

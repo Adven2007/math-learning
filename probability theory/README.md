@@ -5,7 +5,7 @@
 [概率论（第二版）何书元 北大出版社](./books/概率论（第二版）%20何书元%20北大出版社.pdf)  
 
 chapter 1 古典概型和概率空间<br>
-&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[notes](./概率论%20He%20c1%20preview.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;exercises<br>
 chapter 2 随机变量和概率分布<br>
 &nbsp;&nbsp;&nbsp;&nbsp;notes<br>

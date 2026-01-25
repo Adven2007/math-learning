@@ -4,7 +4,7 @@
 
 [Probability Theory \[He\]](./books/概率论（第二版）%20何书元%20北大出版社.pdf)  
 
-https://www.bilibili.com/video/BV1F4411f7m3/?spm_id_from=333.337.search-card.all.click  
+Probability Theory pku(https://www.bilibili.com/video/BV1F4411f7m3/?spm_id_from=333.337.search-card.all.click)<br>
 
 chapter 1 古典概型和概率空间<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/He/概率论%20He%20c1%20preview.pdf)<br>

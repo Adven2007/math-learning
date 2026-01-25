@@ -8,7 +8,7 @@ chapter 1 古典概型和概率空间<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/He/概率论%20He%20c1%20preview.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;exercises<br>
 chapter 2 随机变量和概率分布<br>
-&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/He/概率论%20He%20c2%20preview.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;exercises<br>
 chapter 3 随机向量及其概率分布<br>
 &nbsp;&nbsp;&nbsp;&nbsp;notes<br>

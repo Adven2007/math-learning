@@ -2,7 +2,7 @@
 ## 入门
 力求对概率论有一个大致的认识，对知识框架留有印象，会应用其中的计算方法 
 
-[概率论（第一版）何书元 北大出版社](./books/概率论（第二版）%20何书元%20北大出版社.pdf)  
+[Probability Theory \[He\]](./books/概率论（第二版）%20何书元%20北大出版社.pdf)  
 
 chapter 1 古典概型和概率空间<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/He/概率论%20He%20c1%20preview.pdf)<br>

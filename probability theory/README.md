@@ -13,7 +13,7 @@ chapter 2 随机变量和概率分布<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/He/概率论%20He%20c2%20preview.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;exercises<br>
 chapter 3 随机向量及其概率分布<br>
-&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/He/概率论%20He%20c3%20preview.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;exercises<br>
 chapter 4 数学期望和方差<br>
 &nbsp;&nbsp;&nbsp;&nbsp;notes<br>

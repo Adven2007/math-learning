@@ -2,8 +2,6 @@
 ## Beginner Level
 ### materials
 textbook:<br>
-
-online course:<br>
 ### content
 #### part 1 集合论
 chapter 1&nbsp;&nbsp;集合<br>

@@ -1,6 +1,6 @@
 # Discrete Mathematics & Combinatorics<br>
 ## Beginner Level
-### materials
+### material
 textbook:<br>
 ### content
 #### part 1 集合论

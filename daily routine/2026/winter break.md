@@ -8,5 +8,4 @@
 ### 2026.02.05
 * 离散数学 [Qu] chapter 2 &nbsp;&nbsp; :white_check_mark:<br>
 * 离散数学 [Qu] chapter 3<br>
-* 离散数学 [Qu] chapter 4 (if time is enough)<br>
-* 离散数学 [Qu] chapter 1 to 3 (or 4) notes<br>
+* 离散数学 [Qu] chapter 1 to 3 notes<br>

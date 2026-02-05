@@ -1,7 +1,7 @@
 # Discrete Mathematics & Combinatorics<br>
 ## Beginner Level
 ### material
-textbook:<br>
+textbook:&nbsp;&nbsp;Discrete Mathematics [Qu] (too big to update)
 ### content
 #### part 1 集合论
 chapter 1&nbsp;&nbsp;集合<br>

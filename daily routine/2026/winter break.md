@@ -6,7 +6,7 @@
 * 离散数学 [Qu] whole<br>
 * 数学分析 [Wu] chapter 1 again (if time is enough)
 ### 2026.02.05
-:white_check_mark:&nbsp;离散数学 [Qu] chapter 2<br>
+* 离散数学 [Qu] chapter 2 &nbsp;&nbsp; :white_check_mark:<br>
 * 离散数学 [Qu] chapter 3<br>
 * 离散数学 [Qu] chapter 4 (if time is enough)<br>
 * 离散数学 [Qu] chapter 1 to 3 (or 4) notes<br>

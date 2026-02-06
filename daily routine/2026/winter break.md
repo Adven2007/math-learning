@@ -6,11 +6,11 @@
 * 离散数学 [Qu] whole<br>
 * 计算机科学中的数学 [mit] (if time is enough)
 ### 2026.02.05
-* 离散数学 [Qu] chapter 2 &nbsp;&nbsp; ✅<br>
-* 离散数学 [Qu] chapter 3 &nbsp;&nbsp; 🚫<br>
-* 离散数学 [Qu] chapter 1 to 3 notes &nbsp;&nbsp; 🚫<br>
+✅ &nbsp;离散数学 [Qu] chapter 2<br>
+❎ &nbsp;离散数学 [Qu] chapter 3<br>
+❎ &nbsp;离散数学 [Qu] chapter 1 to 3 notes<br>
 ### 2026.02.06
-* 了解并选择北大的导师方向 &nbsp;&nbsp; ✨<br>
+✅ &nbsp;了解并选择北大的导师方向<br>
 * 离散数学 [Qu] chapter 3<br>
 * 离散数学 [Qu] chapter 1 to 3 notes<br>
 * 离散数学 [Qu] chapter 4 including notes<br>

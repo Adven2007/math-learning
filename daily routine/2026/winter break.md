@@ -7,8 +7,8 @@
 * 数学分析 [Wu] chapter 1 again (if time is enough)
 ### 2026.02.05
 * 离散数学 [Qu] chapter 2 &nbsp;&nbsp; ✅<br>
-* 离散数学 [Qu] chapter 3 &nbsp;&nbsp; ❎<br>
-* 离散数学 [Qu] chapter 1 to 3 notes &nbsp;&nbsp; ❎<br>
+* 离散数学 [Qu] chapter 3 &nbsp;&nbsp; 🚫<br>
+* 离散数学 [Qu] chapter 1 to 3 notes &nbsp;&nbsp; 🚫<br>
 ### 2026.02.06
 * 了解并选择北大的导师方向 &nbsp;&nbsp; ✨<br>
 * 离散数学 [Qu] chapter 3<br>

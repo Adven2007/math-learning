@@ -10,7 +10,7 @@
 * 离散数学 [Qu] chapter 3 &nbsp;&nbsp; ❎<br>
 * 离散数学 [Qu] chapter 1 to 3 notes &nbsp;&nbsp; ❎<br>
 ### 2026.02.06
-* 
+* 了解并选择北大的导师方向<br>
 * 离散数学 [Qu] chapter 3 <br>
 * 离散数学 [Qu] chapter 1 to 3 notes<br>
 * 离散数学 [Qu] chapter 4 including notes<br>

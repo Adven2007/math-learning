@@ -7,11 +7,11 @@
 * 计算机科学中的数学 [mit] (if time is enough)
 ### 2026.02.05
 ✅ &nbsp;离散数学 [Qu] chapter 2<br>
-❎ &nbsp;离散数学 [Qu] chapter 3<br>
-❎ &nbsp;离散数学 [Qu] chapter 1 to 3 notes<br>
+❌ &nbsp;离散数学 [Qu] chapter 3<br>
+❌ &nbsp;离散数学 [Qu] chapter 1 to 3 notes<br>
 ### 2026.02.06
 ✅ &nbsp;了解并选择北大的导师方向<br>
-* 离散数学 [Qu] chapter 3<br>
-* 离散数学 [Qu] chapter 1 to 3 notes<br>
+✅ &nbsp;离散数学 [Qu] chapter 3<br>
 * 离散数学 [Qu] chapter 4 including notes<br>
 * 离散数学 [Qu] chapter 5 including notes<br>
+* 离散数学 [Qu] chapter 1 to 3 notes<br>

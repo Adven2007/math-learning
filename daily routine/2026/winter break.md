@@ -12,6 +12,10 @@
 ### 2026.02.06
 ✅ &nbsp;了解并选择北大的导师方向<br>
 ✅ &nbsp;离散数学 [Qu] chapter 3<br>
-* 离散数学 [Qu] chapter 4 including notes<br>
-* 离散数学 [Qu] chapter 5 including notes<br>
-* 离散数学 [Qu] chapter 1 to 3 notes<br>
+🔼 &nbsp;离散数学 [Qu] chapter 4 including notes<br>
+❌ &nbsp;离散数学 [Qu] chapter 1 to 3 notes<br>
+### 2026.02.27
+* 深入了解两位导师的量子计算和量子信息方向
+* 离散数学 [Qu] chapter 4 including notes complete
+* 离散数学 [Qu] chapter 1 to 3 notes
+* 离散数学 [Qu] chapter 5 including notes

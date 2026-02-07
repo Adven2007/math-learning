@@ -15,7 +15,7 @@
 🔼 &nbsp;离散数学 [Qu] chapter 4 including notes<br>
 ❌ &nbsp;离散数学 [Qu] chapter 1 to 3 notes<br>
 ### 2026.02.07
-* 深入了解两位导师的量子计算和量子信息方向
+✅ &nbsp;更加深入的了解选定导师方向，确定需要补足的知识
 * 离散数学 [Qu] chapter 4 including notes complete
 * 离散数学 [Qu] chapter 1 to 3 notes
 * 离散数学 [Qu] chapter 5 including notes

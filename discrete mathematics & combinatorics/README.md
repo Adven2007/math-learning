@@ -10,3 +10,6 @@ chapter 2&nbsp;&nbsp;二元关系<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
 chapter 3&nbsp;&nbsp;函数<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
+#### part 2 初等数论
+chapter 4&nbsp;&nbsp;初等数论基础及其应用<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notes<br>

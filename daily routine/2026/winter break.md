@@ -22,4 +22,5 @@
 ✅ &nbsp;离散数学 [Qu] chapter 4 including notes complete<br>
 * 离散数学 [Qu] chapter 5 including notes<br>
 * 离散数学 [Qu] chapter 6 including notes<br>
+* 离散数学 [Qu] part 3 (as much as i can do)<br>
 * 建立自学课程列表<br>

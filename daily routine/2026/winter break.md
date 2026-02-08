@@ -12,10 +12,14 @@
 ### 2026.02.06
 ✅ &nbsp;了解并选择北大的导师方向<br>
 ✅ &nbsp;离散数学 [Qu] chapter 3<br>
-🔼 &nbsp;离散数学 [Qu] chapter 4 including notes<br>
+❌ &nbsp;离散数学 [Qu] chapter 4 including notes<br>
 ❌ &nbsp;离散数学 [Qu] chapter 1 to 3 notes<br>
 ### 2026.02.07
-✅ &nbsp;更加深入的了解选定导师方向，确定需要补足的知识
-* 离散数学 [Qu] chapter 4 including notes complete
-* 离散数学 [Qu] chapter 1 to 3 notes
-* 离散数学 [Qu] chapter 5 including notes
+✅ &nbsp;更加深入的了解选定导师方向，确定需要补足的知识<br>
+🔼 &nbsp;离散数学 [Qu] chapter 4 including notes complete<br>
+❌ &nbsp;离散数学 [Qu] chapter 5 including notes<br>
+### 2026.02.08
+✅ &nbsp;离散数学 [Qu] chapter 4 including notes complete<br>
+* 离散数学 [Qu] chapter 5 including notes<br>
+* 离散数学 [Qu] chapter 6 including notes<br>
+* 建立自学课程列表<br>

@@ -9,5 +9,5 @@ textbook:&nbsp;&nbsp;[part I](./readings/MIT%206.042J%20reading%20I.pdf)&nbsp;&n
 prerequisite:&nbsp;&nbsp;none
 ## Contents
 Lecture 6&nbsp;&nbsp;Graph theory and coloring<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/MIT%206.042J%20note%206.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;assignment<br>

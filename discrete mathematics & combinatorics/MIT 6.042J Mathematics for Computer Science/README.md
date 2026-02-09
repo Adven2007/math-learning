@@ -12,6 +12,6 @@ Lecture 6&nbsp;&nbsp;Graph theory and Coloring<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/MIT_6.042J_note_6.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;assignment<br>
 Lecture 7&nbsp;&nbsp;Matching Problems<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/MIT_6.042J_note_6.pdf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/MIT_6.042J_note_7.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;assignment<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reflection<br>

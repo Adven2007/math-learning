@@ -6,8 +6,6 @@ textbook:&nbsp;&nbsp;[part I](./readings/MIT%206.042J%20reading%20I.pdf),&nbsp;&
 <br>
 This is the mit course for discrete mathematics, it has lecture videos, readings, problem sets and my notes.
 ## Contents
-#### Part 2 &nbsp;Structures
 Lecture 6&nbsp;&nbsp;Graph theory and coloring<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lecture notes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;assignment<br>
-  

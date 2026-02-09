@@ -7,5 +7,5 @@ This is the mit course for discrete mathematics, there will be lecture videos, r
 #### Part 2 &nbsp;Structures
 Chapter 5&nbsp;&nbsp;Graph theory<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lecture notes<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;problem set<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;assignment<br>
   

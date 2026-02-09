@@ -11,3 +11,4 @@ prerequisite:&nbsp;&nbsp;none
 Lecture 6&nbsp;&nbsp;Graph theory and coloring<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/MIT_6.042J_note_6.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;assignment<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reflection<br>

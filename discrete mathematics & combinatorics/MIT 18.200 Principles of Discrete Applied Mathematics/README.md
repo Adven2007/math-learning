@@ -7,7 +7,7 @@ lecture video:&nbsp;&nbsp;[MIT 18.200](https://ocw.mit.edu/courses/18-200-princi
 prerequisite:&nbsp;&nbsp;none
 ## Contents
 Lecture 1&nbsp;&nbsp;Pigeonhole Principle<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;readings<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[readings](./readings/MIT_18.200_readings_lecture_1.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
 Lecture 2&nbsp;&nbsp;Independence and Conditioning<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;readings<br>

@@ -9,6 +9,6 @@ textbook:&nbsp;&nbsp;[part I](./readings/MIT_6.050J_Information_and_Entropy_text
 prerequisite:&nbsp;&nbsp;Classical Mechanics<br>
 ## Contents
 Unit 1 Bits<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading](./reading/MIT_6.050J_readings_chapter_1.pdf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading](./readings/MIT_6.050J_readings_chapter_1.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lecture note](./lecture%20notes/MIT_6.050J_lecture_note_1.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading note](./reading%20notes/MIT_6.050J_reading_note_1.pdf)<br>

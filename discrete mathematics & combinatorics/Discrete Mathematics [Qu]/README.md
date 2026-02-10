@@ -11,7 +11,7 @@ chapter 3&nbsp;&nbsp;函数<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
 #### part 2 初等数论
 chapter 4&nbsp;&nbsp;初等数论基础及其应用<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[notes](./Qu/notes/离散数学%20Qu%20c4%20preview.pdf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/Discrete_Mathematics_[Qu]_chapter_4_preview_notes.pdf)<br>
 #### part 3 图论
 chapter 5&nbsp;&nbsp;图的基本概念<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notes<br>

@@ -9,7 +9,7 @@ prerequisite:&nbsp;&nbsp;none
 Lecture 1&nbsp;&nbsp;Pigeonhole Principle<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[readings](./readings/MIT_18.200_readings_lecture_1.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[notes](./notes/MIT_18.200_lecture_note_1.pdf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[homework](./assignments/MIT_18.200_homework_1.pdf)<br>
 Lecture 2&nbsp;&nbsp;Independence and Conditioning<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[readings](./readings/MIT_18.200_readings_lecture_2-4.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notes<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[homework](./assignments/MIT_18.200_problem_set_1.pdf)<br>

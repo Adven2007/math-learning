@@ -7,7 +7,7 @@ online course:&nbsp;&nbsp;[MIT 6.050J](https://www.bilibili.com/video/BV1ym8UzzE
 <br>
 textbook:&nbsp;&nbsp;[part I](./readings/MIT_6.050J_Information_and_Entropy_textbook_1.pdf)&nbsp;&nbsp;&nbsp;[part II](./readings/MIT_6.050J_Information_and_Entropy_textbook_2.pdf)<br>
 <br>
-prerequisite:&nbsp;&nbsp;Classical Mechanics<br>
+prerequisite:&nbsp;&nbsp;Classical Mechanics (not very necessary)<br>
 ## Contents
 Unit 1 Bits<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading](./readings/MIT_6.050J_readings_chapter_1.pdf)<br>

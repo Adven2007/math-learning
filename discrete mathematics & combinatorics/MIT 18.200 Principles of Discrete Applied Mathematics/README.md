@@ -1,6 +1,6 @@
 # MIT 18.200 Principles of Discrete Applied Mathematics
 ## Syllabus
-This is a MIT course for discrete math, essentially the same as 6.042J, but a little more advanced. It includes lecture videos, readings, assignments and my notes.<br>
+This is a MIT course for discrete applied math, including counting, generating functions, probability, linear optimization, algebraic structures, basic number theory, information theory, and coding theory, essentially the same as 6.042J, but a little more advanced. This course is provided with lecture videos, readings, assignments and my notes.<br>
 <br>
 lecture video:&nbsp;&nbsp;[MIT 18.200](https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/video_galleries/lecture-videos/)<br>
 <br>

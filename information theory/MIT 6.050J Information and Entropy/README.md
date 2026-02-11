@@ -1,6 +1,7 @@
 # MIT 6.050J Information and Entropy
 ## Syllabus
-This is a fundemental course for the theory of information. It includes lecture videos, problem sets and their solutions, textbook and my notes.
+This is a fundemental course for the theory of information, exploring the ultimate limits to communication and computation, with an emphasis on the physical nature of information and information processing.<br>
+This course is provided with lecture videos, problem sets and their solutions, textbook and my notes.
 <br>
 online course:&nbsp;&nbsp;[MIT 6.050J](https://www.bilibili.com/video/BV1c741177oH/?spm_id_from=333.337.search-card.all.click)<br>
 <br>

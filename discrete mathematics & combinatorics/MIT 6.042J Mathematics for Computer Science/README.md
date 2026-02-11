@@ -1,6 +1,6 @@
 # MIT 6.042J Mathematics for Computer Science
 ## Syllabus
-This is the mit course for an introduction to discrete mathematics oriented toward computer science and engineering. Its coverage is divided in three parts, fundamental concepts of mathematics: definitions, proofs, sets, functions; discrete structures: elementary number theory, graphs, counting; discrete probability theory.
+This is the mit course for an introduction to discrete mathematics oriented toward computer science and engineering. Its coverage is divided in three parts, fundamental concepts of mathematics: definitions, proofs, sets, functions; discrete structures: elementary number theory, graphs, counting; discrete probability theory.<br>
 This course provides with lecture videos, readings, problem sets and my notes.<br>
 <br>
 online course:&nbsp;&nbsp;[MIT 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/)<br>

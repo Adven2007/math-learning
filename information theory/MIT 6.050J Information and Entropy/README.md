@@ -19,3 +19,9 @@ Unit 2 Codes<br>
 Unit 3 Compression<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading](./readings/MIT_6.050J_readings_chapter_3.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading note](./reading%20notes/MIT_6.050J_reading_note_3.pdf)<br>
+Unit 4 Errors<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading](./readings/MIT_6.050J_readings_chapter_4.pdf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading note](./reading%20notes/MIT_6.050J_reading_note_4.pdf)<br>
+Unit 5 Probability<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading](./readings/MIT_6.050J_readings_chapter_5.pdf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[reading note](./reading%20notes/MIT_6.050J_reading_note_5.pdf)<br>

@@ -1,2 +1,1 @@
-# 数学分析
-从数学分析 II 开始，记录学习路程
+# Mathematical Analysis

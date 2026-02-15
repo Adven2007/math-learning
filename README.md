@@ -5,5 +5,5 @@ Mathematical Analysis<br>
 Linear Algebra<br>
 Probability Theory<br>
 Discrete Mathematics & Combinatorics<br>
-Information Theory<br>
+Abstract Algebra<br>
 To be continued... 
